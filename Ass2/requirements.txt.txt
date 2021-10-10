@@ -1,0 +1,3 @@
+python version 3.8.6
+pip version 21.2.4
+beautifulsoup4 version 4.9.3
